@@ -13,7 +13,7 @@
   </a>
 </p>
 
-# Contents
+# Content
 
 - [Summary](#summary)
 - [Community](#community)
